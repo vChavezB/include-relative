@@ -37,7 +37,7 @@ README = (HERE / "README.md").read_text()
 # This call to setup() does all the work
 setup(
     name="relative_include",
-    version="1.0.0",
+    version=verstr,
     description="Makes include paths for a C/C++ lib relative",
     long_description=README,
     long_description_content_type="text/markdown",
