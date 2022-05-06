@@ -28,7 +28,7 @@ Local install
 
 Run the script 
 ```
-    python -m relative_include
+    python -m relative_include YourCfg.json
 ```
 
 ```bash
