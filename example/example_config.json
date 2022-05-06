@@ -1,0 +1,12 @@
+{
+	"include_paths": ["include","include/foo"],
+	"lib_path" : "example_lib",
+	"include_same_dir": true,
+	"out":
+	{
+		"dir":	"example_lib_out",
+		"overwrite": true
+	},
+	"silent": false,
+	"debug": true
+}
