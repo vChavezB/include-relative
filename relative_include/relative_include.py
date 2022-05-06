@@ -1,5 +1,6 @@
 """
 	Copyright (C) 2022 Victor Chavez
+	vchavezb@protonmail.com
     This file is part of Relative Include
 	
     IOLink Device Generator is free software: you can redistribute it and/or modify
